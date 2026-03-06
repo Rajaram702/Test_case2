@@ -3,5 +3,5 @@ application edit started..............................
 vairav is the king of the world.......................
 public void m1()
 {
-	System.out.println("razatchintu");
+	System.out.println("m1 method executed....");
 }

@@ -1,7 +1,8 @@
-public int m1()
+public Stream<Integer> m1()
 {
 	System.out.println("m1 method exeuted...");
-	return 15;
+	Stream<Integer> stream1=Stream.of(6,2,5,7,8);
+	return stream;
 }
 public Stream<String> m2()
 {

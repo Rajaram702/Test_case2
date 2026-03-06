@@ -1,7 +1,7 @@
 application edited by outside....
 application edit started..............................
 vairav is the king of the world.......................
-public void m1()
+public void m2()
 {
-	System.out.println("m1 method executed....");
+	System.out.println("m1 method executed");
 }
